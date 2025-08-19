@@ -43,7 +43,7 @@ These files were imported into MySQL using LOAD DATA INFILE.
 - Find the book with the lowest stock
 - Calculate the total revenue generated from all orders
 
-# Advance
+#Advance
 - Retrieve the total number of books sold for each genre
 - Find the average price of books in the "Fantasy" genre
 - List customers who have placed at least 2 orders
