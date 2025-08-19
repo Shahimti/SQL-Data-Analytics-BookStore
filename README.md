@@ -26,7 +26,7 @@ These files were imported into MySQL using LOAD DATA INFILE.
 
 14 Basics & 8 Advanced 
 
-- Basics:
+#Basics:
 
 1 Retrieve all books in the "Fiction" genre
 2 Retrieve the "average" price of all books
@@ -43,7 +43,7 @@ These files were imported into MySQL using LOAD DATA INFILE.
 13 Find the book with the lowest stock
 14 Calculate the total revenue generated from all orders
 
-- Advance
+# Advance
 1 Retrieve the total number of books sold for each genre
 2 Find the average price of books in the "Fantasy" genre
 3 List customers who have placed at least 2 orders
